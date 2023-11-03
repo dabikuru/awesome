@@ -3,6 +3,9 @@ Miscellaneous list of useful resources
 
 ## Software
 
+### Command line setup
+- [Zim Git aliases](https://github.com/zimfw/git)
+
 ### JavaScript
 - [useHooks](https://usehooks.com/). Collection of useful custom React Hooks
 - [React+TypeScript cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/blob/master/README.md#basic-cheatsheet-table-of-contents)
