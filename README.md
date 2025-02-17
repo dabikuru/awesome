@@ -23,3 +23,7 @@ Miscellaneous list of useful resources
 
 ### Misc
 - [DevHints](https://devhints.io/). All the cheatsheets
+
+## Design
+
+- [Realtime Colors](https://www.realtimecolors.com). Create and preview theme palettes
